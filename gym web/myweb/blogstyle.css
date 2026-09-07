@@ -1,0 +1,41 @@
+body{
+    background-color:darkslategray;
+}
+h2{
+
+    background-color:black;
+    color: azure;
+    text-align:center;
+}
+#aa{
+    margin-right:35%;
+    margin-top:3%;
+}
+#ab{
+    margin-top: 27%;
+    margin-right: 5%;
+}
+#ac{
+    margin-top: 27%;
+    margin-right: 5%;
+}
+#ad{
+    margin-top: 27%;
+    margin-right: 5%;
+    width: 35%;
+}
+#ae{
+    margin-top: 10%;
+    margin-left: 25%;
+    width: 30%;
+}
+#af{
+    margin-top: -30%;
+    margin-right: 35%;
+    width: 35%;
+}
+#ag{
+    margin-top: -28%;
+    margin-right: 72%;
+    width: 28%;
+}

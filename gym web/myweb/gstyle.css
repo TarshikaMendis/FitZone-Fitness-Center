@@ -1,0 +1,18 @@
+h2{
+    
+    background-color:black;
+    color: azure;
+    text-align:center;
+}
+table{
+    border: 20px;
+    width:100%;
+    border-style: outset;
+}
+td,th{
+    border: 1px;
+    text-align: left;
+    padding: 10px;
+    border-style: double;
+    
+}
